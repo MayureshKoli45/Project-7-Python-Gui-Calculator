@@ -1,4 +1,4 @@
-# Python-Gui-Calculator-
+# Python Gui Calculator
 
 Making a Calculator in Python using Tkinter and adding a Gui to the Calculator.
 
