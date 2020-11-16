@@ -8,4 +8,4 @@ In this repositary I am adding the python code and some additional image and ico
 
 Important Note :- While running this program make sure that the code file, icon and image which is used should be in the same folder.
 
-After writing the code you can convert .py file to .exe file but make sure that .exe file, icon and image shoul be in same folder.
+After writing the code you can convert .py file to .exe file but make sure that .exe file, icon and image should be in same folder.
